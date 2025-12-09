@@ -40,8 +40,8 @@ library(spotifyr)
 
 #Ingresar credenciales de Spotify
 
-Sys.setenv(SPOTIFY_CLIENT_ID = '347570626c4e4a16b776c37845b6cb9a')
-Sys.setenv(SPOTIFY_CLIENT_SECRET = '0f9391626dd845f0be16743f10a3461d')
+Sys.setenv(SPOTIFY_CLIENT_ID = ')
+Sys.setenv(SPOTIFY_CLIENT_SECRET = '')
 
 access_token <- get_spotify_access_token()
 
